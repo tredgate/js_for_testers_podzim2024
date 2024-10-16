@@ -1,0 +1,12 @@
+{
+  "name": "js_for_testers_podzim2024",
+  "version": "1.0.0",
+  "description": "Ahoj!!! Toto vidíte jak to pišu!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
